@@ -1,0 +1,36 @@
+body{
+    background-color: #1c3379;
+}
+
+.formClass{
+    max-width: 350px;
+    min-width: 350px;
+    margin: 0 auto;
+}
+
+.img-responsive{
+    margin: 0 auto;
+}
+
+.logo-marpad{
+    margin-top: 40px;
+    padding-bottom: 80px;
+}
+
+.form-group{
+    text-align: center;
+}
+
+.input-center{
+    margin: 0 auto;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary {
+    background-color: #c1d001;
+    border-color: #c1d001;
+}
+
+.btn {
+    background-color: #c1d001;
+    border-color: #c1d001;
+}
